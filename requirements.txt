@@ -1,0 +1,10 @@
+# Python dependencies
+
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+pvlib>=0.9.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+aquacrop>=2.0.0
+bifacial-radiance>=0.4.0
