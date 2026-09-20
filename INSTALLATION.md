@@ -10,7 +10,7 @@
 ## Step 1: Clone or Extract
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Kaustubh-DevEnergy/APV-T
 cd apvt_project
 ```
 
