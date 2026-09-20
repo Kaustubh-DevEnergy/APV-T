@@ -9,7 +9,6 @@ Master's Candidate, TH Ingolstadt — Institute of new Energy Systems (InES)
 
 **Fabian Feuchter**
 Institute of new Energy Systems (InES), TH Ingolstadt
-fabian.feuchter@thi.de
 
 ## Project
 
